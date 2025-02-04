@@ -1,13 +1,18 @@
 import './App.css';
-import Header from '../src/Header/Header';
+import Header from './componentes/Header/Header';
+import Sidebar from './componentes/Sidebar/Sidebar';
+import Footer from './componentes/Footer/Footer';
+import Main from './componentes/Main/Main';
 
 function App() {
   return (
-
-    <di>
-      <Header/>
-    </di>
-  ); 
+    <div>
+      <Sidebar />
+      <Header />
+      <Main/>
+      <Footer/>
+    </div>
+  );
 }
 
 export default App;

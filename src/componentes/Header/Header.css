@@ -70,11 +70,14 @@
   }
   
   .header__login .subscribe {
-    color: #a7a7a7;
+    width: 110px;
+    height: 48px;
+    color: #fff;
     font-size: 16px;
     font-weight: 700;
-    background-color: transparent;
+    background-color: rgb(25, 207, 40);
     margin-right: 32px;
+    border-radius: 40px;
     border:none;
   }
   
