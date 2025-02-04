@@ -22,7 +22,7 @@ Este repositório contém a versão do código escrita em **React**. Se você de
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd imersao-spotfy
+   cd spotfy-react
    ```
 3. Instale as dependências:
    ```bash
